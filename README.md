@@ -207,41 +207,43 @@ Please ensure your contributions adhere to the project's coding standards and in
 ## 📜 License
 
 Subscription Software License Agreement
+
 License Grant
-This Subscription Software License Agreement ("Agreement") is a legal agreement between you (the "Licensee") and [S.E.P.T] ("Licensor") for the use of the software product [PROJECT S.E.P.T] ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
+
+This Subscription Software License Agreement ("Agreement") is a legal agreement between you (the "Licensee") and S.E.P.T ("Licensor") for the use of the software product PROJECT S.E.P.T ("Software"). By using the Software, you agree to be bound by the terms of this Agreement.
 
 1. Grant of License
 The Licensor grants the Licensee a non-exclusive, non-transferable, and revocable license to use the Software solely for the purposes specified in the applicable subscription plan.
 
 2. Subscription Terms
-
 The Software is licensed on a subscription basis, subject to recurring payment as defined in the chosen subscription plan.
 Access to the Software may be revoked if payments are not made in accordance with the subscription terms.
 The subscription plan grants access to the Software for a specific duration (e.g., monthly or yearly).
+
 3. Restrictions
 The Licensee may not:
-
 Modify, adapt, or create derivative works of the Software.
 Reverse engineer, decompile, or disassemble the Software.
 Distribute, sublicense, or provide access to the Software to any third party without prior written consent from the Licensor.
 Use the Software in any way that violates applicable laws or regulations.
-4. Ownership
 
+4. Ownership
 The Software and all intellectual property rights remain the exclusive property of the Licensor.
 No ownership rights are transferred to the Licensee under this Agreement.
-5. Support and Updates
 
+5. Support and Updates
 The Licensor may provide updates or enhancements to the Software during the subscription period.
 Support services, if included, will be provided as per the terms of the chosen subscription plan.
-6. Termination
 
+6. Termination
 This license is effective until terminated.
 The Licensor may terminate this Agreement if the Licensee breaches any term of this Agreement or fails to pay the subscription fee.
 Upon termination, the Licensee must cease all use of the Software and destroy any copies in their possession.
-7. Limitation of Liability
 
+7. Limitation of Liability
 The Software is provided "as is," and the Licensor disclaims all warranties, express or implied.
 The Licensor shall not be liable for any damages arising from the use or inability to use the Software.
+
 8. Governing Law
 This Agreement shall be governed by and construed in accordance with the laws of [ROMANIA].
 
